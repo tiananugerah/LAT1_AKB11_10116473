@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AKB11</string>
+    <string name="Intro">Monitory Membantu Anda Mengontrol HP Anak</string>
+    <string name="info_login">Dengan Menekan tombol masuk berarti Anda menyetujui Ketentuan Pengguna dan Kebijakan Data kami</string>
+    <string name="info_entri_code">Ketikan kode keluarga yang Ayah Bunda miliki disini</string>
+    <string name="quetion_account">Belum Punya Kode Keluarga?</string>
+    <string name="buttom_buy_code">Beli Kode Keluarga Disini</string>
+    <string name="head_login">Kode Keluarga</string>
+    <string name="btn_login">Masuk</string>
+    <string name="end_dialog">Beres! Sekarang kamu udah bisa ngecek penggunaan HP mu tiap hari buat bantu kamu ngatur waktu:)</string>
+    <string name="umur">Umur Kamu</string>
+    <string name="nama">Nama Panggilan Kamu</string>
+</resources>
